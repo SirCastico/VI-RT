@@ -7,7 +7,6 @@
 
 #include "scene.hpp"
 
-#define TINYOBJLOADER_IMPLEMENTATION
 #include "tiny_obj_loader.h"
 #include "primitive.hpp"
 #include "mesh.hpp"
